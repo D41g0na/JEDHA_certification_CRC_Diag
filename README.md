@@ -10,6 +10,8 @@ Dans ce nouvel [article de l'Inserm](https://www.inserm.fr/actualite/cibler-micr
 ## Prérequis
 
 - Docker desktop
+  
+Depuis le dossier Streamlit
 - requirements.txt
 
 ## Installation
